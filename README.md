@@ -25,3 +25,9 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuma-phawx)](https://github.com/akuma-phawx/github-readme-stats)
