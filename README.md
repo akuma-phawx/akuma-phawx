@@ -2,11 +2,11 @@
 
 ---
 
-## I'm a Developer and Gymnastics Athelete
+## I'm a Developer and Gymnastics Athlete
 
 - 🖥️ I'm currently working as a Fullstack Developer for Factset.
-- 🤲 I'm looking to collaborate with other developers.
-- 📚 I'm learning everything.
+- 🤲 I'm looking to collaborate with other developers in various projects.
+- 📚 I'm learning everything 😂
 - 🎳 Fun Fact: I love bowling.
 
 ---
