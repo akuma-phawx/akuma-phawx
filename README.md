@@ -1,6 +1,4 @@
-### Hey there, I'm Christopher - aka [akuma-phawx](https://github.com/akuma-phawx) 👋
-
----
+# Hey there, I'm Christopher - aka [akuma-phawx](https://github.com/akuma-phawx) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 ## I'm a Developer and Gymnastics Athlete
 
@@ -11,7 +9,11 @@
 
 ---
 
-### Connect with me:
+## Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+---
+
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 - [Github](https://github.com/akuma-phawx)
 
@@ -21,13 +23,25 @@
 
 ---
 
-### ⚡ Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 📊 Github Stats
+## Github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuma-phawx)](https://github.com/akuma-phawx/github-readme-stats)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=akuma-phawx&theme=dracula)
+
+| ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuma-phawx&show_icons=true&theme=dracula) | ![Christopher's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akuma-phawx&theme=dracula) |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-phawx&show_icons=true&theme=radical)](https://github.com/akuma-phawx/github-readme-stats) | [![Christopher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akuma-phawx)](https://github.com/akuma-phawx/github-readme-stats) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akuma-phawx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
