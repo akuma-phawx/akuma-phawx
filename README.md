@@ -26,6 +26,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#13327](https://github.com/zero-to-mastery/start-here-guidelines/pull/13327) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+2. 🎉 Merged PR [#2](https://github.com/akuma-phawx/github-exercise-course/pull/2) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
+3. 🎉 Merged PR [#1](https://github.com/akuma-phawx/github-exercise-course/pull/1) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
+4. 💪 Opened PR [#2](https://github.com/akuma-phawx/github-exercise-course/pull/2) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
+5. 💪 Opened PR [#1](https://github.com/akuma-phawx/github-exercise-course/pull/1) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
 <!--END_SECTION:activity-->
 
 ---
