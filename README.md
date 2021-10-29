@@ -33,8 +33,8 @@
 | ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuma-phawx&show_icons=true&theme=dracula) | ![Christopher's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akuma-phawx&theme=dracula) |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-phawx&show_icons=true&theme=radical)](https://github.com/akuma-phawx/github-readme-stats) | [![Christopher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akuma-phawx)](https://github.com/akuma-phawx/github-readme-stats) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-phawx&show_icons=true&theme=radical)](https://github.com/akuma-phawx/github-readme-stats) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
