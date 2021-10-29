@@ -4,15 +4,18 @@ on:
   schedule:
     # Runs every 30 minutes
     - cron: '*/30 * * * *'
-
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update this repo's README with recent activity AND Waka stats
 
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     - uses: anmol098/waka-readme-stats@master
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
