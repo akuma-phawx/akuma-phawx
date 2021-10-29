@@ -1,6 +1,6 @@
 # Hey there, I'm Christopher - aka [akuma-phawx](https://github.com/akuma-phawx) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-## I'm a Developer and Gymnastics Athlete
+## I'm a Developer and Gymnastics Athlete from Greece
 
 - 🖥️ I'm currently working as a Fullstack Developer for Factset.
 - 🤲 I'm looking to collaborate with other developers in various projects.
@@ -26,11 +26,6 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13327](https://github.com/zero-to-mastery/start-here-guidelines/pull/13327) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-2. 🎉 Merged PR [#2](https://github.com/akuma-phawx/github-exercise-course/pull/2) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
-3. 🎉 Merged PR [#1](https://github.com/akuma-phawx/github-exercise-course/pull/1) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
-4. 💪 Opened PR [#2](https://github.com/akuma-phawx/github-exercise-course/pull/2) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
-5. 💪 Opened PR [#1](https://github.com/akuma-phawx/github-exercise-course/pull/1) in [akuma-phawx/github-exercise-course](https://github.com/akuma-phawx/github-exercise-course)
 <!--END_SECTION:activity-->
 
 ---
@@ -44,6 +39,9 @@
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-phawx&show_icons=true&theme=radical)](https://github.com/akuma-phawx/github-readme-stats) | [![Christopher's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akuma-phawx)](https://github.com/akuma-phawx/github-readme-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
