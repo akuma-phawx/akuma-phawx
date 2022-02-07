@@ -37,6 +37,8 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -80,17 +82,16 @@ Sunday       25 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-JSON                     10 mins             ████████████░░░░░░░░░░░░░   51.26% 
-JavaScript               9 mins              ████████████░░░░░░░░░░░░░   48.74%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-robofriends              20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -111,7 +112,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 22:06:25 UTC
+ Last Updated on 07/02/2022 22:37:02 UTC
 <!--END_SECTION:waka-->
 
 ---
