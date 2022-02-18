@@ -82,16 +82,16 @@ Sunday       25 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -112,7 +112,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2022 23:07:01 UTC
+ Last Updated on 18/02/2022 00:26:27 UTC
 <!--END_SECTION:waka-->
 
 ---
