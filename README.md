@@ -45,7 +45,7 @@
 
 > 🏆 10 Contributions in the Year 2022
  > 
-> 📦 23.9 kB Used in GitHub's Storage 
+> 📦 23.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +113,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/02/2022 10:06:43 UTC
+ Last Updated on 26/02/2022 10:38:11 UTC
 <!--END_SECTION:waka-->
 
 ---
