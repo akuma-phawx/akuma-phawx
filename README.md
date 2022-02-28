@@ -82,16 +82,19 @@ Sunday       25 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 3 mins         █████████████████████████   99.7% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rxjs-playground          1 hr 3 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -112,7 +115,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/02/2022 00:28:18 UTC
+ Last Updated on 28/02/2022 01:46:43 UTC
 <!--END_SECTION:waka-->
 
 ---
