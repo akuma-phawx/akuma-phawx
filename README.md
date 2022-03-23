@@ -37,7 +37,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -116,7 +116,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 20:37:16 UTC
+ Last Updated on 23/03/2022 23:37:29 UTC
 <!--END_SECTION:waka-->
 
 ---
