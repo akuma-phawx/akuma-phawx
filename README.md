@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2022
+> 🏆 28 Contributions in the Year 2022
  > 
 > 📦 24.4 kB Used in GitHub's Storage 
  > 
@@ -119,7 +119,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/04/2022 17:12:29 UTC
+ Last Updated on 30/04/2022 18:10:46 UTC
 <!--END_SECTION:waka-->
 
 ---
