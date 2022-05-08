@@ -37,7 +37,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -120,7 +120,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 14:36:00 UTC
+ Last Updated on 08/05/2022 15:09:03 UTC
 <!--END_SECTION:waka-->
 
 ---
