@@ -43,6 +43,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 50 Contributions in the Year 2022
+ > 
 > 📦 25.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -115,7 +117,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/05/2022 04:23:11 UTC
+ Last Updated on 27/05/2022 04:58:17 UTC
 <!--END_SECTION:waka-->
 
 ---
