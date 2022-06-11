@@ -37,7 +37,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,18 +82,16 @@ Sunday       40 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-Rust                     1 min               ██████████████████████░░░   87.63% 
-TOML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hello-rust               1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,7 +112,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2022 21:07:14 UTC
+ Last Updated on 11/06/2022 21:34:51 UTC
 <!--END_SECTION:waka-->
 
 ---
