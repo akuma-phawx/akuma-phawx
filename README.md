@@ -39,20 +39,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 50 contributions in 2022
-
-📦 25.2 kB used in GitHub's storage 
-
-📜 45 Public Repositories 
-
-🔑 0 Private Repositories  
+> 🏆 50 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 25.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
@@ -61,7 +62,7 @@
 🌙 Night      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
-📅 **I'm most productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
@@ -75,7 +76,7 @@ Sunday       40 commits     ███████░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Athens
@@ -94,7 +95,7 @@ No Activity Tracked This Week
 
 ```
 
-**💻 I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
@@ -111,7 +112,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 08:10:35 UTC
+ Last Updated on 12/06/2022 08:40:57 UTC
 <!--END_SECTION:waka-->
 
 ---
