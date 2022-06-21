@@ -22,6 +22,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#5547](https://github.com/nuxt/framework/issues/5547) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
 
 ---
