@@ -83,18 +83,16 @@ Sunday       37 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-JavaScript               12 mins             ██████████████████████░░░   89.17% 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yoko-clothing            14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +113,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akuma-phawx/akuma-phawx/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 21:07:17 UTC
+ Last Updated on 14/09/2022 21:40:09 UTC
 <!--END_SECTION:waka-->
 
 ---
